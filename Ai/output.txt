@@ -1,0 +1,23 @@
+﻿--- Running Indoor Air Pollution Analysis Project ---
+Executing models and comparing results...
+
+--- Linear Regression Results ---
+Mean Squared Error (MSE): 16.9432
+
+--- Logistic Regression Results ---
+Accuracy Score: 0.8700
+
+--- Decision Tree Results ---
+Accuracy Score: 0.8450
+
+--- Random Forest Results ---
+Accuracy: 0.9250
+Precision: 0.9222
+Recall: 0.9940
+F1-score: 0.9568
+
+
+--- Final Project Summary ---
+Target: Predict CO level (Regression) and Air_Quality (Classification)
+Based on the accuracy scores above, compare Logistic Regression, Decision Tree, and Random Forest.
+Recommendation: Use Random Forest for best classification performance.
